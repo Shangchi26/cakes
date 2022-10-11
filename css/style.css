@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');*{
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@1,200&display=swap');
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    font-family: 'Roboto', sans-serif ;
+    font-size: 14px;
+
+    font-weight: 400;
+    line-height: 1.35;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
+
+.conternor{
+    width: 1200px;
+    float: none;
+    margin: 0 auto;
+}
+.noidung1 p{
+    margin: 0px 190px;
+    font-size: 22px;
+    float: left;
+}
+.noidung1{
+
+    padding: 20px 0px;
+
+}
+.noidung img{
+    float: right;
+}
+.noidung h1{
+    margin: 70px 250px;
+    font-size: 45px;
+    color: rgb(26, 192, 115);
+    font-family: 'Inter Tight', sans-serif;
+}
+.noidung1 #id{
+    padding: 10px;
+}
+.gach{
+    width: 126px;
+    height: 6px;
+    background: rgb(26, 192, 115);
+    border-radius: 5px;
+
+    margin: 40px 190px;
+}
+.oHPPR{
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 150%;
+    font-size: 18px;
+    margin: 0 195px;
+    text-align: center;
+    width: 31%;
+}
+.izsAqy{
+    font-family: 'Inter Tight', sans-serif;
+    font-weight: 700;
+    line-height: 250%;
+    font-size: 36px;
+    color: rgb(26, 192, 115) ;
+    margin: 30px 195px;
+}
+.nho img{
+    width: 45px;
+
+}
+.nho{
+    text-align: center;
+
+    width: 130px;
+}
+.hoaqua .nho{
+
+    float: left;
+    margin: 0px 0px;
+}
+.hoaqua{
+    margin: 0px 250px;
+}
+.hoaqua2{
+    padding:  200px ;
+    margin: 0px -150px;
+}
+.tonghop p{
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 20px;
+}
